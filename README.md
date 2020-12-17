@@ -4,6 +4,11 @@
 ### Github Repo Link: https://github.com/pmaganty/Pet-Finder
 ### Heroku Link: https://polar-stream-66961.herokuapp.com/ [NO LONGER SUPPORTED]
 
+#### Technologies
+* mySQL
+* Bootstrap
+* Bulma
+
 #### Preliminary to-do if running on local server:
 + Enter "npm i" to grab all dependency libraries
 + Run .sql file in sql server and change settings to access that server in config/config.json file (you should only need to change the password to your own)
