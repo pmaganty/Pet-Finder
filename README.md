@@ -8,6 +8,7 @@
 * mySQL
 * Bootstrap
 * Bulma
+* Handlebars
 
 #### Preliminary to-do if running on local server:
 + Enter "npm i" to grab all dependency libraries
